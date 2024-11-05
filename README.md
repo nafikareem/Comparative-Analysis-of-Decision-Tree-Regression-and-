@@ -10,4 +10,4 @@ The results show that the RFR model provides more accurate prediction results th
 ```
 streamlit run dashboard.py
 ```
-![image](https://github.com/user-attachments/assets/598aa3b6-054d-4abb-b28c-72e83426bfc7)
+![image](https://github.com/user-attachments/assets/a5a585eb-298b-4b0f-aed5-a1ad85e2e9f8)

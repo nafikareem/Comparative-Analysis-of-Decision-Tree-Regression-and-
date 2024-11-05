@@ -6,9 +6,8 @@ The data used in this study is secondary data from 37528 backhoe engine operatio
 
 The results show that the RFR model provides more accurate prediction results than DTR. Based on testing, the RFR model achieved an RMSE value of 0.0065 both before and after tuning, a decrease in MAPE of 14.1041% to 14% after tuning, and a fairly stable R2 of 0.8911 before tuning and 0.8894 after tuning. While the DTR model experienced a decrease in RMSE value of 0.0085 to 0.0075 after tuning, a decrease in MAPE of 17.1751% to 15.8783% after tuning, and an increase in R2 of 0.81490 to 0.8539 after tuning. These results indicate that RFR is more suitable for use in the prediction of NOx emissions from backhoe engines due to its higher accuracy and ability to handle complex variables.
 
-![image](https://github.com/user-attachments/assets/598aa3b6-054d-4abb-b28c-72e83426bfc7)
-
 ## Run steamlit app
 ```
 streamlit run dashboard.py
 ```
+![image](https://github.com/user-attachments/assets/598aa3b6-054d-4abb-b28c-72e83426bfc7)
